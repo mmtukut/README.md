@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:2f80ed,100:7209b7&height=210&section=header&text=MUHAMMAD%20M.%20TUKUR&desc=Founder%20%26%20AI%20Engineer%20%C2%B7%20Autonomous%20Agent%20Systems%20%C2%B7%20Applied%20Machine%20Learning&fontSize=40&fontColor=FFFFFF&fontAlignY=34&descSize=16&descAlignY=54&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:2f80ed,100:7209b7&height=210&section=header&text=MUHAMMAD%20M.%20TUKUR&desc=Founder%20and%20AI%20Engineer%20%C2%B7%20Autonomous%20Agent%20Systems%20%C2%B7%20Applied%20Machine%20Learning&fontSize=40&fontColor=FFFFFF&fontAlignY=34&descSize=16&descAlignY=54&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3200&pause=900&color=00D4AA&center=true&vCenter=true&width=720&height=70&lines=I+build+autonomous+agent+systems+that+ship+to+production;Applied+AI+for+Africa's+hardest+trust+problems;Satellite+intelligence+across+2M%2B+mapped+properties;Turning+a+%244B+fraud+problem+into+verified+trust;Engineer+first.+Founder+by+necessity." alt="Typing SVG" />
@@ -259,5 +259,5 @@
 
   <h3>"I do not just train models. I ship systems that people trust with what matters most."</h3>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:2f80ed,100:7209b7&height=120&section=footer&text=Let's%20build%20something%20that%20lasts.&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=68" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:2f80ed,100:7209b7&height=120&section=footer&text=Let%20us%20build%20something%20that%20lasts&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=68" width="100%"/>
 </div>
